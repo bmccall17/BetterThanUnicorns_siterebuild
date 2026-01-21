@@ -5,7 +5,3 @@ Disallow: /cart/
 Disallow: /checkout/
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.betterthanunicorns.com/sitemap.xml
-
-Sitemap: https://www.betterthanunicorns.com/sitemap.xml
