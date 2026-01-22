@@ -2,5 +2,6 @@ services:
   - type: web
     name: betterthanunicorns-old
     env: static
+    rootDir: .
     staticPublishPath: public
     buildCommand: echo 'no build'
