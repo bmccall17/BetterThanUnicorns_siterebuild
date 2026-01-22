@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: betterthanunicorns-old
+    env: static
+    staticPublishPath: ./old.betterthanunicorns.com
+    buildCommand: echo 'no build'
