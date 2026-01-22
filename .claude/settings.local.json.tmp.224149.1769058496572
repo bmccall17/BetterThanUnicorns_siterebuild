@@ -3,8 +3,7 @@
     "allow": [
       "Bash(grep:*)",
       "Bash(/tmp/download_assets.sh)",
-      "Bash(done)",
-      "Bash( ls assets/images/*.png assets/images/*.jpg assets/images/*.jpeg)"
+      "Bash(done)"
     ]
   }
 }
