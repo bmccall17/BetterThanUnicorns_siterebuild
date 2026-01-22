@@ -6,6 +6,6 @@ Disallow: /checkout/
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://www.betterthanunicorns.com/sitemap.xml
+Sitemap: https://old.betterthanunicorns.com/sitemap.xml
 
-Sitemap: https://www.betterthanunicorns.com/sitemap.xml
+Sitemap: https://old.betterthanunicorns.com/sitemap.xml
