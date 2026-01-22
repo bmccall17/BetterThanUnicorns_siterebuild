@@ -5,8 +5,7 @@
       "Bash(/tmp/download_assets.sh)",
       "Bash(done)",
       "Bash( ls assets/images/*.png assets/images/*.jpg assets/images/*.jpeg)",
-      "WebFetch(domain:betterthanunicorns.com)",
-      "Bash(echo:*)"
+      "WebFetch(domain:betterthanunicorns.com)"
     ]
   }
 }
